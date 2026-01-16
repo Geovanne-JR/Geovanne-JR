@@ -6,7 +6,7 @@
 # Olá, eu sou o Geovanne! 👋
 
 ### 👨‍💻 Sobre mim
-Sou estudante de Engenharia na **Universidade de Brasília (UnB)**. Tenho grande interesse em entender como o software interage com o hardware, explorando desde a **Arquitetura de Computadores** até o desenvolvimento de aplicações modernas com **Django**.
+Sou estudante de Ciencia da computação na **Universidade de Brasília (UnB)**. Tenho grande interesse em entender como o software interage com o hardware, explorando desde a **Arquitetura de Computadores** até o desenvolvimento de aplicações modernas com **Django**.
 
 ---
 
