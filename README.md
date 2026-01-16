@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Geovanne-JR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanne-JR&layout=compact&theme=dracula" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Geovanne-JR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanne-JR&layout=compact&theme=dracula" />
 </div>
 
 # Olá, eu sou o Geovanne! 👋
 
 ### 👨‍💻 Sobre mim
-Sou estudante de Ciencia da computação na **Universidade de Brasília (UnB)**. Tenho grande interesse em entender como o software interage com o hardware, explorando desde a **Arquitetura de Computadores** até o desenvolvimento de aplicações modernas com **Django**.
+Sou estudante de **Ciência da Computação** na **Universidade de Brasília (UnB)**. Tenho grande interesse em entender como o software interage com o hardware, explorando desde a **Arquitetura de Computadores** até o desenvolvimento de aplicações modernas com **Django**.
 
 ---
 
@@ -21,14 +21,14 @@ Sou estudante de Ciencia da computação na **Universidade de Brasília (UnB)**.
 ---
 
 ### 🚀 Projetos em Destaque
-* **Zelda-like RISC-V:** Jogo de aventura desenvolvido em Assembly (RV32I), com foco em manipulação direta de memória e lógica de baixo nível.
-* **Turing Wordlee:** Jogo de busca de palavras desenvolvido em **C** para a disciplina de Algoritmos e Programação de Computadores (APC) na UnB.
-* **Web Project (Django):** Desenvolvimento de aplicações web utilizando Python, focando em boas práticas de arquitetura e modelos de dados.
-* **Algoritmos Beecrowd:** Repositório dedicado à resolução de problemas de lógica e algoritmos competitivos na plataforma Beecrowd.
+* **🛡️ Zelda-like RISC-V:** Jogo de aventura desenvolvido em Assembly (RV32I), com foco em manipulação direta de memória e lógica de baixo nível.
+* **🎮 Turing Wordlee:** Jogo de busca de palavras desenvolvido em **C** para a disciplina de Algoritmos e Programação de Computadores (APC) na UnB.
+* **🌐 Web Project (Django):** Desenvolvimento de aplicações web utilizando Python, focando em boas práticas de arquitetura e modelos de dados.
+* **💡 Algoritmos Beecrowd:** Repositório dedicado à resolução de problemas de lógica e algoritmos competitivos.
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas de Contribuição
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geovanne-JR&theme=dracula" alt="GitHub Streak" />
 </p>
@@ -37,6 +37,6 @@ Sou estudante de Ciencia da computação na **Universidade de Brasília (UnB)**.
 
 ### 🔗 Vamos nos conectar?
 <p align="left">
-<a href="https://www.linkedin.com/in/geovanne-junio-18849b1b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:geovannejunio113@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/geovanne-junio-18849b1b2/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:geovannejunio113@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
