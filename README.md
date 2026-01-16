@@ -21,8 +21,10 @@ Sou estudante de Ciencia da computação na **Universidade de Brasília (UnB)**.
 ---
 
 ### 🚀 Projetos em Destaque
-* **Zelda-like RISC-V:** Jogo de aventura desenvolvido em Assembly, com foco em manipulação direta de memória e lógica de baixo nível.
-* **Web Project (Django):** Desenvolvimento de aplicações web utilizando Python e boas práticas de arquitetura.
+* **Zelda-like RISC-V:** Jogo de aventura desenvolvido em Assembly (RV32I), com foco em manipulação direta de memória e lógica de baixo nível.
+* **Turing Wordlee:** Jogo de busca de palavras desenvolvido em **C** para a disciplina de Algoritmos e Programação de Computadores (APC) na UnB.
+* **Web Project (Django):** Desenvolvimento de aplicações web utilizando Python, focando em boas práticas de arquitetura e modelos de dados.
+* **Algoritmos Beecrowd:** Repositório dedicado à resolução de problemas de lógica e algoritmos competitivos na plataforma Beecrowd.
 
 ---
 
